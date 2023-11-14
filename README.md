@@ -30,5 +30,4 @@ To access the API, open your browser and paste the following URL:
 http://localhost:8000/docs
 ```
 
-To understand how to create the database and perform migrations head over to the following blog post: [DevOps with Fast API & PostgreSQL: How to containerize Fast API Application with Docker](https://dev.to/mbuthi/devops-with-fast-api-postgresql-how-to-containerize-fast-api-application-with-docker-1jdb)
 
